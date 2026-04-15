@@ -1,0 +1,78 @@
+{
+  "webpage_section": {
+    "section_id": "html__body_1__div_6",
+    "section_description": "Element at /html/body[1]/div[6], matched to migrated html__body_1__footer_1 (similarity: 0.7912)"
+  },
+  "difference_1": {
+    "element_id": "/html/body[1]/div[6]",
+    "element_description": "Element html__body_1__div_6 (/html/body[1]/div[6])",
+    "computed_style_change": "font-size: \"16px\" -> \"12px\"",
+    "difference": "font-size changed from 16px to 12px",
+    "dissimilarity_score": 0.4,
+    "noticeability_score": 0.6
+  },
+  "difference_2": {
+    "element_id": "/html/body[1]/div[6]",
+    "element_description": "Element html__body_1__div_6 (/html/body[1]/div[6])",
+    "computed_style_change": "line-height: \"24px\" -> \"18px\"",
+    "difference": "line-height changed from 24px to 18px",
+    "dissimilarity_score": 0.35,
+    "noticeability_score": 0.4
+  },
+  "difference_3": {
+    "element_id": "/html/body[1]/div[6]",
+    "element_description": "Element html__body_1__div_6 (/html/body[1]/div[6])",
+    "computed_style_change": "background-color: \"rgb(255, 255, 255)\" -> \"rgb(248, 249, 249)\"",
+    "difference": "background-color changed from rgb(255, 255, 255) to rgb(248, 249, 249)",
+    "dissimilarity_score": 0.5,
+    "noticeability_score": 0.6
+  },
+  "difference_4": {
+    "element_id": "/html/body[1]/div[6]",
+    "element_description": "Element html__body_1__div_6 (/html/body[1]/div[6])",
+    "computed_style_change": "position: \"relative\" -> \"static\"",
+    "difference": "position changed from relative to static",
+    "dissimilarity_score": 0.2,
+    "noticeability_score": 0.15
+  },
+  "difference_5": {
+    "element_id": "/html/body[1]/div[6]/section[4]",
+    "element_description": "Element html__body_1__div_6__section_4 (/html/body[1]/div[6]/section[4])",
+    "computed_style_change": "font-size: \"16px\" -> \"12px\"",
+    "difference": "font-size changed from 16px to 12px",
+    "dissimilarity_score": 0.4,
+    "noticeability_score": 0.6
+  },
+  "difference_6": {
+    "element_id": "/html/body[1]/div[6]/section[4]",
+    "element_description": "Element html__body_1__div_6__section_4 (/html/body[1]/div[6]/section[4])",
+    "computed_style_change": "line-height: \"24px\" -> \"18px\"",
+    "difference": "line-height changed from 24px to 18px",
+    "dissimilarity_score": 0.35,
+    "noticeability_score": 0.4
+  },
+  "difference_7": {
+    "element_id": "/html/body[1]/div[6]/section[4]",
+    "element_description": "Element html__body_1__div_6__section_4 (/html/body[1]/div[6]/section[4])",
+    "computed_style_change": "background-color: \"rgb(220, 225, 227)\" -> \"rgb(248, 249, 249)\"",
+    "difference": "background-color changed from rgb(220, 225, 227) to rgb(248, 249, 249)",
+    "dissimilarity_score": 0.5,
+    "noticeability_score": 0.6
+  },
+  "difference_8": {
+    "element_id": "/html/body[1]/div[6]/section[4]",
+    "element_description": "Element html__body_1__div_6__section_4 (/html/body[1]/div[6]/section[4])",
+    "computed_style_change": "padding-top: \"25px\" -> \"0px\"",
+    "difference": "padding-top changed from 25px to 0px",
+    "dissimilarity_score": 0.7,
+    "noticeability_score": 0.65
+  },
+  "difference_9": {
+    "element_id": "/html/body[1]/div[6]/section[4]",
+    "element_description": "Element html__body_1__div_6__section_4 (/html/body[1]/div[6]/section[4])",
+    "computed_style_change": "padding-bottom: \"25px\" -> \"0px\"",
+    "difference": "padding-bottom changed from 25px to 0px",
+    "dissimilarity_score": 0.7,
+    "noticeability_score": 0.65
+  }
+}

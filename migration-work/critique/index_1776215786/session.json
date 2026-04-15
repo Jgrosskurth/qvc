@@ -1,0 +1,28 @@
+{
+  "pageName": "index",
+  "originalUrl": "https://www.qvc.com/",
+  "migratedUrl": "http://localhost:3000/",
+  "migratedPath": "/",
+  "created": "2026-04-15T01:16:26.000Z",
+  "iterations": [],
+  "status": {
+    "original_collection_complete": true,
+    "migrated_collection_complete": true,
+    "analysis_complete": true
+  },
+  "collection_metadata": {
+    "original": {
+      "elements": 46,
+      "timestamp": "2026-04-15T01:20:00.000Z"
+    },
+    "migrated": {
+      "elements": 6,
+      "timestamp": "2026-04-15T01:20:45.000Z"
+    }
+  },
+  "analysis": {
+    "similarity": 0.45000000000000007,
+    "grade": "Poor",
+    "verified_differences": 10
+  }
+}

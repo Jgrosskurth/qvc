@@ -1,0 +1,518 @@
+{
+  "webpage_section": {
+    "section_id": "html__body_1__div_3",
+    "section_description": "Element at /html/body[1]/div[3], matched to migrated html__body_1 (similarity: 0.5387)"
+  },
+  "difference_1": {
+    "element_id": "/html/body[1]/div[3]",
+    "element_description": "Element html__body_1__div_3 (/html/body[1]/div[3])",
+    "computed_style_change": "min-height: \"430px\" -> \"0px\"",
+    "difference": "min-height changed from 430px to 0px",
+    "dissimilarity_score": 0.2,
+    "noticeability_score": 0.2
+  },
+  "difference_2": {
+    "element_id": "/html/body[1]/div[3]",
+    "element_description": "Element html__body_1__div_3 (/html/body[1]/div[3])",
+    "computed_style_change": "position: \"relative\" -> \"static\"",
+    "difference": "position changed from relative to static",
+    "dissimilarity_score": 0.2,
+    "noticeability_score": 0.15
+  },
+  "difference_3": {
+    "element_id": "/html/body[1]/div[3]/section[9]/div[2]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_9__div_2__div_1 (/html/body[1]/div[3]/section[9]/div[2]/div[1])",
+    "computed_style_change": "padding-right: \"12px\" -> \"0px\"",
+    "difference": "padding-right changed from 12px to 0px",
+    "dissimilarity_score": 0.55,
+    "noticeability_score": 0.55
+  },
+  "difference_4": {
+    "element_id": "/html/body[1]/div[3]/section[9]/div[2]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_9__div_2__div_1 (/html/body[1]/div[3]/section[9]/div[2]/div[1])",
+    "computed_style_change": "padding-left: \"12px\" -> \"0px\"",
+    "difference": "padding-left changed from 12px to 0px",
+    "dissimilarity_score": 0.55,
+    "noticeability_score": 0.55
+  },
+  "difference_5": {
+    "element_id": "/html/body[1]/div[3]/section[9]/div[2]/div[1]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_9__div_2__div_1__div_1 (/html/body[1]/div[3]/section[9]/div[2]/div[1]/div[1])",
+    "computed_style_change": "margin-right: \"-12px\" -> \"0px\"",
+    "difference": "margin-right changed from -12px to 0px",
+    "dissimilarity_score": 0.5,
+    "noticeability_score": 0.5
+  },
+  "difference_6": {
+    "element_id": "/html/body[1]/div[3]/section[9]/div[2]/div[1]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_9__div_2__div_1__div_1 (/html/body[1]/div[3]/section[9]/div[2]/div[1]/div[1])",
+    "computed_style_change": "margin-left: \"-12px\" -> \"0px\"",
+    "difference": "margin-left changed from -12px to 0px",
+    "dissimilarity_score": 0.5,
+    "noticeability_score": 0.5
+  },
+  "difference_7": {
+    "element_id": "/html/body[1]/div[3]/section[9]/div[2]/div[1]/div[1]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_9__div_2__div_1__div_1__div_1 (/html/body[1]/div[3]/section[9]/div[2]/div[1]/div[1]/div[1])",
+    "computed_style_change": "overflow-x: \"scroll\" -> \"visible\"",
+    "difference": "overflow-x changed from scroll to visible",
+    "dissimilarity_score": 0.4,
+    "noticeability_score": 0.4
+  },
+  "difference_8": {
+    "element_id": "/html/body[1]/div[3]/section[9]/div[2]/div[1]/div[1]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_9__div_2__div_1__div_1__div_1 (/html/body[1]/div[3]/section[9]/div[2]/div[1]/div[1]/div[1])",
+    "computed_style_change": "overflow-y: \"hidden\" -> \"visible\"",
+    "difference": "overflow-y changed from hidden to visible",
+    "dissimilarity_score": 0.4,
+    "noticeability_score": 0.4
+  },
+  "difference_9": {
+    "element_id": "/html/body[1]/div[3]/section[9]/div[2]/div[1]/div[1]/div[1]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_9__div_2__div_1__div_1__div_1__div_1 (/html/body[1]/div[3]/section[9]/div[2]/div[1]/div[1]/div[1]/div[1])",
+    "computed_style_change": "display: \"flex\" -> \"block\"",
+    "difference": "display changed from flex to block",
+    "dissimilarity_score": 0.6,
+    "noticeability_score": 0.7
+  },
+  "difference_10": {
+    "element_id": "/html/body[1]/div[3]/section[7]",
+    "element_description": "Element html__body_1__div_3__section_7 (/html/body[1]/div[3]/section[7])",
+    "computed_style_change": "font-size: \"16px\" -> \"12px\"",
+    "difference": "font-size changed from 16px to 12px",
+    "dissimilarity_score": 0.4,
+    "noticeability_score": 0.6
+  },
+  "difference_11": {
+    "element_id": "/html/body[1]/div[3]/section[7]",
+    "element_description": "Element html__body_1__div_3__section_7 (/html/body[1]/div[3]/section[7])",
+    "computed_style_change": "line-height: \"24px\" -> \"18px\"",
+    "difference": "line-height changed from 24px to 18px",
+    "dissimilarity_score": 0.35,
+    "noticeability_score": 0.4
+  },
+  "difference_12": {
+    "element_id": "/html/body[1]/div[3]/section[7]",
+    "element_description": "Element html__body_1__div_3__section_7 (/html/body[1]/div[3]/section[7])",
+    "computed_style_change": "background-color: \"rgba(0, 0, 0, 0)\" -> \"rgb(248, 249, 249)\"",
+    "difference": "background-color changed from rgba(0, 0, 0, 0) to rgb(248, 249, 249)",
+    "dissimilarity_score": 0.5,
+    "noticeability_score": 0.6
+  },
+  "difference_13": {
+    "element_id": "/html/body[1]/div[3]/section[11]/div[2]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_11__div_2__div_1 (/html/body[1]/div[3]/section[11]/div[2]/div[1])",
+    "computed_style_change": "display: \"flex\" -> \"block\"",
+    "difference": "display changed from flex to block",
+    "dissimilarity_score": 0.6,
+    "noticeability_score": 0.7
+  },
+  "difference_14": {
+    "element_id": "/html/body[1]/div[3]/section[11]/div[2]/div[1]/div[2]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_11__div_2__div_1__div_2__div_1 (/html/body[1]/div[3]/section[11]/div[2]/div[1]/div[2]/div[1])",
+    "computed_style_change": "display: \"flex\" -> \"block\"",
+    "difference": "display changed from flex to block",
+    "dissimilarity_score": 0.6,
+    "noticeability_score": 0.7
+  },
+  "difference_15": {
+    "element_id": "/html/body[1]/div[3]/section[11]/div[2]/div[1]/div[2]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_11__div_2__div_1__div_2__div_1 (/html/body[1]/div[3]/section[11]/div[2]/div[1]/div[2]/div[1])",
+    "computed_style_change": "overflow-x: \"scroll\" -> \"visible\"",
+    "difference": "overflow-x changed from scroll to visible",
+    "dissimilarity_score": 0.4,
+    "noticeability_score": 0.4
+  },
+  "difference_16": {
+    "element_id": "/html/body[1]/div[3]/section[11]/div[2]/div[1]/div[2]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_11__div_2__div_1__div_2__div_1 (/html/body[1]/div[3]/section[11]/div[2]/div[1]/div[2]/div[1])",
+    "computed_style_change": "overflow-y: \"hidden\" -> \"visible\"",
+    "difference": "overflow-y changed from hidden to visible",
+    "dissimilarity_score": 0.4,
+    "noticeability_score": 0.4
+  },
+  "difference_17": {
+    "element_id": "/html/body[1]/div[3]/section[14]/div[2]",
+    "element_description": "Element html__body_1__div_3__section_14__div_2 (/html/body[1]/div[3]/section[14]/div[2])",
+    "computed_style_change": "padding-right: \"12px\" -> \"0px\"",
+    "difference": "padding-right changed from 12px to 0px",
+    "dissimilarity_score": 0.55,
+    "noticeability_score": 0.55
+  },
+  "difference_18": {
+    "element_id": "/html/body[1]/div[3]/section[14]/div[2]",
+    "element_description": "Element html__body_1__div_3__section_14__div_2 (/html/body[1]/div[3]/section[14]/div[2])",
+    "computed_style_change": "padding-left: \"12px\" -> \"0px\"",
+    "difference": "padding-left changed from 12px to 0px",
+    "dissimilarity_score": 0.55,
+    "noticeability_score": 0.55
+  },
+  "difference_19": {
+    "element_id": "/html/body[1]/div[3]/section[14]/div[2]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_14__div_2__div_1 (/html/body[1]/div[3]/section[14]/div[2]/div[1])",
+    "computed_style_change": "margin-right: \"-12px\" -> \"0px\"",
+    "difference": "margin-right changed from -12px to 0px",
+    "dissimilarity_score": 0.5,
+    "noticeability_score": 0.5
+  },
+  "difference_20": {
+    "element_id": "/html/body[1]/div[3]/section[14]/div[2]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_14__div_2__div_1 (/html/body[1]/div[3]/section[14]/div[2]/div[1])",
+    "computed_style_change": "margin-left: \"-12px\" -> \"0px\"",
+    "difference": "margin-left changed from -12px to 0px",
+    "dissimilarity_score": 0.5,
+    "noticeability_score": 0.5
+  },
+  "difference_21": {
+    "element_id": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_14__div_2__div_1__div_1 (/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1])",
+    "computed_style_change": "padding-right: \"12px\" -> \"0px\"",
+    "difference": "padding-right changed from 12px to 0px",
+    "dissimilarity_score": 0.55,
+    "noticeability_score": 0.55
+  },
+  "difference_22": {
+    "element_id": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_14__div_2__div_1__div_1 (/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1])",
+    "computed_style_change": "padding-left: \"12px\" -> \"0px\"",
+    "difference": "padding-left changed from 12px to 0px",
+    "dissimilarity_score": 0.55,
+    "noticeability_score": 0.55
+  },
+  "difference_23": {
+    "element_id": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]",
+    "element_description": "Element html__body_1__div_3__section_14__div_2__div_1__div_1__div_2 (/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2])",
+    "computed_style_change": "margin-right: \"-12px\" -> \"0px\"",
+    "difference": "margin-right changed from -12px to 0px",
+    "dissimilarity_score": 0.5,
+    "noticeability_score": 0.5
+  },
+  "difference_24": {
+    "element_id": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]",
+    "element_description": "Element html__body_1__div_3__section_14__div_2__div_1__div_1__div_2 (/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2])",
+    "computed_style_change": "margin-left: \"-12px\" -> \"0px\"",
+    "difference": "margin-left changed from -12px to 0px",
+    "dissimilarity_score": 0.5,
+    "noticeability_score": 0.5
+  },
+  "difference_25": {
+    "element_id": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1 (/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1])",
+    "computed_style_change": "padding-right: \"12px\" -> \"0px\"",
+    "difference": "padding-right changed from 12px to 0px",
+    "dissimilarity_score": 0.55,
+    "noticeability_score": 0.55
+  },
+  "difference_26": {
+    "element_id": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1 (/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1])",
+    "computed_style_change": "padding-left: \"12px\" -> \"0px\"",
+    "difference": "padding-left changed from 12px to 0px",
+    "dissimilarity_score": 0.55,
+    "noticeability_score": 0.55
+  },
+  "difference_27": {
+    "element_id": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1 (/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1])",
+    "computed_style_change": "overflow-x: \"hidden\" -> \"visible\"",
+    "difference": "overflow-x changed from hidden to visible",
+    "dissimilarity_score": 0.4,
+    "noticeability_score": 0.4
+  },
+  "difference_28": {
+    "element_id": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1 (/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1])",
+    "computed_style_change": "overflow-y: \"hidden\" -> \"visible\"",
+    "difference": "overflow-y changed from hidden to visible",
+    "dissimilarity_score": 0.4,
+    "noticeability_score": 0.4
+  },
+  "difference_29": {
+    "element_id": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1__div_1__div_1__div_1__div_1 (/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1])",
+    "computed_style_change": "overflow-x: \"hidden\" -> \"visible\"",
+    "difference": "overflow-x changed from hidden to visible",
+    "dissimilarity_score": 0.4,
+    "noticeability_score": 0.4
+  },
+  "difference_30": {
+    "element_id": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1__div_1__div_1__div_1__div_1 (/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1])",
+    "computed_style_change": "overflow-y: \"hidden\" -> \"visible\"",
+    "difference": "overflow-y changed from hidden to visible",
+    "dissimilarity_score": 0.4,
+    "noticeability_score": 0.4
+  },
+  "difference_31": {
+    "element_id": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1__div_1__div_1__div_1__div_1__div_1 (/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1])",
+    "computed_style_change": "margin-right: \"-12px\" -> \"0px\"",
+    "difference": "margin-right changed from -12px to 0px",
+    "dissimilarity_score": 0.5,
+    "noticeability_score": 0.5
+  },
+  "difference_32": {
+    "element_id": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1__div_1__div_1__div_1__div_1__div_1 (/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1])",
+    "computed_style_change": "margin-left: \"-12px\" -> \"0px\"",
+    "difference": "margin-left changed from -12px to 0px",
+    "dissimilarity_score": 0.5,
+    "noticeability_score": 0.5
+  },
+  "difference_33": {
+    "element_id": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1__div_1__div_1__div_1__div_1__div_1 (/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1])",
+    "computed_style_change": "display: \"flex\" -> \"block\"",
+    "difference": "display changed from flex to block",
+    "dissimilarity_score": 0.6,
+    "noticeability_score": 0.7
+  },
+  "difference_34": {
+    "element_id": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1__div_1__div_1__div_1__div_1__div_1 (/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1])",
+    "computed_style_change": "overflow-x: \"auto\" -> \"visible\"",
+    "difference": "overflow-x changed from auto to visible",
+    "dissimilarity_score": 0.4,
+    "noticeability_score": 0.4
+  },
+  "difference_35": {
+    "element_id": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1__div_1__div_1__div_1__div_1__div_1 (/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1])",
+    "computed_style_change": "overflow-y: \"auto\" -> \"visible\"",
+    "difference": "overflow-y changed from auto to visible",
+    "dissimilarity_score": 0.4,
+    "noticeability_score": 0.4
+  },
+  "difference_36": {
+    "element_id": "/html/body[1]/div[3]/section[18]",
+    "element_description": "Element html__body_1__div_3__section_18 (/html/body[1]/div[3]/section[18])",
+    "computed_style_change": "font-size: \"16px\" -> \"12px\"",
+    "difference": "font-size changed from 16px to 12px",
+    "dissimilarity_score": 0.4,
+    "noticeability_score": 0.6
+  },
+  "difference_37": {
+    "element_id": "/html/body[1]/div[3]/section[18]",
+    "element_description": "Element html__body_1__div_3__section_18 (/html/body[1]/div[3]/section[18])",
+    "computed_style_change": "line-height: \"24px\" -> \"18px\"",
+    "difference": "line-height changed from 24px to 18px",
+    "dissimilarity_score": 0.35,
+    "noticeability_score": 0.4
+  },
+  "difference_38": {
+    "element_id": "/html/body[1]/div[3]/section[18]",
+    "element_description": "Element html__body_1__div_3__section_18 (/html/body[1]/div[3]/section[18])",
+    "computed_style_change": "background-color: \"rgba(0, 0, 0, 0)\" -> \"rgb(248, 249, 249)\"",
+    "difference": "background-color changed from rgba(0, 0, 0, 0) to rgb(248, 249, 249)",
+    "dissimilarity_score": 0.5,
+    "noticeability_score": 0.6
+  },
+  "difference_39": {
+    "element_id": "/html/body[1]/div[3]/section[4]/div[1]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_4__div_1__div_1 (/html/body[1]/div[3]/section[4]/div[1]/div[1])",
+    "computed_style_change": "padding-top: \"15px\" -> \"0px\"",
+    "difference": "padding-top changed from 15px to 0px",
+    "dissimilarity_score": 0.55,
+    "noticeability_score": 0.55
+  },
+  "difference_40": {
+    "element_id": "/html/body[1]/div[3]/section[4]/div[1]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_4__div_1__div_1 (/html/body[1]/div[3]/section[4]/div[1]/div[1])",
+    "computed_style_change": "padding-right: \"12px\" -> \"0px\"",
+    "difference": "padding-right changed from 12px to 0px",
+    "dissimilarity_score": 0.55,
+    "noticeability_score": 0.55
+  },
+  "difference_41": {
+    "element_id": "/html/body[1]/div[3]/section[4]/div[1]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_4__div_1__div_1 (/html/body[1]/div[3]/section[4]/div[1]/div[1])",
+    "computed_style_change": "padding-bottom: \"15px\" -> \"0px\"",
+    "difference": "padding-bottom changed from 15px to 0px",
+    "dissimilarity_score": 0.55,
+    "noticeability_score": 0.55
+  },
+  "difference_42": {
+    "element_id": "/html/body[1]/div[3]/section[4]/div[1]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_4__div_1__div_1 (/html/body[1]/div[3]/section[4]/div[1]/div[1])",
+    "computed_style_change": "padding-left: \"12px\" -> \"0px\"",
+    "difference": "padding-left changed from 12px to 0px",
+    "dissimilarity_score": 0.55,
+    "noticeability_score": 0.55
+  },
+  "difference_43": {
+    "element_id": "/html/body[1]/div[3]/section[4]/div[1]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_4__div_1__div_1 (/html/body[1]/div[3]/section[4]/div[1]/div[1])",
+    "computed_style_change": "margin-right: \"378px\" -> \"0px\"",
+    "difference": "margin-right changed from 378px to 0px",
+    "dissimilarity_score": 0.65,
+    "noticeability_score": 0.6
+  },
+  "difference_44": {
+    "element_id": "/html/body[1]/div[3]/section[4]/div[1]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_4__div_1__div_1 (/html/body[1]/div[3]/section[4]/div[1]/div[1])",
+    "computed_style_change": "margin-left: \"378px\" -> \"0px\"",
+    "difference": "margin-left changed from 378px to 0px",
+    "dissimilarity_score": 0.65,
+    "noticeability_score": 0.6
+  },
+  "difference_45": {
+    "element_id": "/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_4__div_1__div_1__div_1 (/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1])",
+    "computed_style_change": "margin-right: \"-12px\" -> \"0px\"",
+    "difference": "margin-right changed from -12px to 0px",
+    "dissimilarity_score": 0.5,
+    "noticeability_score": 0.5
+  },
+  "difference_46": {
+    "element_id": "/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_4__div_1__div_1__div_1 (/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1])",
+    "computed_style_change": "margin-left: \"-12px\" -> \"0px\"",
+    "difference": "margin-left changed from -12px to 0px",
+    "dissimilarity_score": 0.5,
+    "noticeability_score": 0.5
+  },
+  "difference_47": {
+    "element_id": "/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_4__div_1__div_1__div_1__div_1 (/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1]/div[1])",
+    "computed_style_change": "display: \"table\" -> \"block\"",
+    "difference": "display changed from table to block",
+    "dissimilarity_score": 0.6,
+    "noticeability_score": 0.7
+  },
+  "difference_48": {
+    "element_id": "/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_4__div_1__div_1__div_1__div_1__div_1 (/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1])",
+    "computed_style_change": "font-size: \"16px\" -> \"12px\"",
+    "difference": "font-size changed from 16px to 12px",
+    "dissimilarity_score": 0.4,
+    "noticeability_score": 0.6
+  },
+  "difference_49": {
+    "element_id": "/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_4__div_1__div_1__div_1__div_1__div_1 (/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1])",
+    "computed_style_change": "line-height: \"24px\" -> \"18px\"",
+    "difference": "line-height changed from 24px to 18px",
+    "dissimilarity_score": 0.35,
+    "noticeability_score": 0.4
+  },
+  "difference_50": {
+    "element_id": "/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_4__div_1__div_1__div_1__div_1__div_1 (/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1])",
+    "computed_style_change": "background-color: \"rgba(0, 0, 0, 0)\" -> \"rgb(248, 249, 249)\"",
+    "difference": "background-color changed from rgba(0, 0, 0, 0) to rgb(248, 249, 249)",
+    "dissimilarity_score": 0.5,
+    "noticeability_score": 0.6
+  },
+  "difference_51": {
+    "element_id": "/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_4__div_1__div_1__div_1__div_1__div_1 (/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1])",
+    "computed_style_change": "padding-right: \"12px\" -> \"0px\"",
+    "difference": "padding-right changed from 12px to 0px",
+    "dissimilarity_score": 0.55,
+    "noticeability_score": 0.55
+  },
+  "difference_52": {
+    "element_id": "/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_4__div_1__div_1__div_1__div_1__div_1 (/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1])",
+    "computed_style_change": "padding-left: \"12px\" -> \"0px\"",
+    "difference": "padding-left changed from 12px to 0px",
+    "dissimilarity_score": 0.55,
+    "noticeability_score": 0.55
+  },
+  "difference_53": {
+    "element_id": "/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_4__div_1__div_1__div_1__div_1__div_1 (/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1])",
+    "computed_style_change": "display: \"table-cell\" -> \"block\"",
+    "difference": "display changed from table-cell to block",
+    "dissimilarity_score": 0.6,
+    "noticeability_score": 0.7
+  },
+  "difference_54": {
+    "element_id": "/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+    "element_description": "Element html__body_1__div_3__section_4__div_1__div_1__div_1__div_1__div_1__div_1__a_1 (/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1])",
+    "computed_style_change": "font-size: \"14px\" -> \"16px\"",
+    "difference": "font-size changed from 14px to 16px",
+    "dissimilarity_score": 0.4,
+    "noticeability_score": 0.6
+  },
+  "difference_55": {
+    "element_id": "/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+    "element_description": "Element html__body_1__div_3__section_4__div_1__div_1__div_1__div_1__div_1__div_1__a_1 (/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1])",
+    "computed_style_change": "display: \"inline\" -> \"block\"",
+    "difference": "display changed from inline to block",
+    "dissimilarity_score": 0.6,
+    "noticeability_score": 0.7
+  },
+  "difference_56": {
+    "element_id": "/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/picture[1]",
+    "element_description": "Element html__body_1__div_3__section_4__div_1__div_1__div_1__div_1__div_1__div_1__a_1__picture_1 (/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/picture[1])",
+    "computed_style_change": "font-size: \"14px\" -> \"16px\"",
+    "difference": "font-size changed from 14px to 16px",
+    "dissimilarity_score": 0.4,
+    "noticeability_score": 0.6
+  },
+  "difference_57": {
+    "element_id": "/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/picture[1]",
+    "element_description": "Element html__body_1__div_3__section_4__div_1__div_1__div_1__div_1__div_1__div_1__a_1__picture_1 (/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/picture[1])",
+    "computed_style_change": "display: \"inline\" -> \"block\"",
+    "difference": "display changed from inline to block",
+    "dissimilarity_score": 0.6,
+    "noticeability_score": 0.7
+  },
+  "difference_58": {
+    "element_id": "/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/picture[1]/img[1]",
+    "element_description": "Element html__body_1__div_3__section_4__div_1__div_1__div_1__div_1__div_1__div_1__a_1__picture_1__img_1 (/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/picture[1]/img[1])",
+    "computed_style_change": "font-size: \"14px\" -> \"16px\"",
+    "difference": "font-size changed from 14px to 16px",
+    "dissimilarity_score": 0.4,
+    "noticeability_score": 0.6
+  },
+  "difference_59": {
+    "element_id": "/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/picture[1]/img[1]",
+    "element_description": "Element html__body_1__div_3__section_4__div_1__div_1__div_1__div_1__div_1__div_1__a_1__picture_1__img_1 (/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/picture[1]/img[1])",
+    "computed_style_change": "max-width: \"100%\" -> \"none\"",
+    "difference": "max-width changed from 100% to none",
+    "dissimilarity_score": 0.5,
+    "noticeability_score": 0.6
+  },
+  "difference_60": {
+    "element_id": "/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/picture[1]/img[1]",
+    "element_description": "Element html__body_1__div_3__section_4__div_1__div_1__div_1__div_1__div_1__div_1__a_1__picture_1__img_1 (/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/picture[1]/img[1])",
+    "computed_style_change": "overflow-x: \"clip\" -> \"visible\"",
+    "difference": "overflow-x changed from clip to visible",
+    "dissimilarity_score": 0.4,
+    "noticeability_score": 0.4
+  },
+  "difference_61": {
+    "element_id": "/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/picture[1]/img[1]",
+    "element_description": "Element html__body_1__div_3__section_4__div_1__div_1__div_1__div_1__div_1__div_1__a_1__picture_1__img_1 (/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/picture[1]/img[1])",
+    "computed_style_change": "overflow-y: \"clip\" -> \"visible\"",
+    "difference": "overflow-y changed from clip to visible",
+    "dissimilarity_score": 0.4,
+    "noticeability_score": 0.4
+  },
+  "difference_62": {
+    "element_id": "/html/body[1]/div[3]/section[1]",
+    "element_description": "Element html__body_1__div_3__section_1 (/html/body[1]/div[3]/section[1])",
+    "computed_style_change": "font-size: \"16px\" -> \"12px\"",
+    "difference": "font-size changed from 16px to 12px",
+    "dissimilarity_score": 0.4,
+    "noticeability_score": 0.6
+  },
+  "difference_63": {
+    "element_id": "/html/body[1]/div[3]/section[1]",
+    "element_description": "Element html__body_1__div_3__section_1 (/html/body[1]/div[3]/section[1])",
+    "computed_style_change": "line-height: \"24px\" -> \"18px\"",
+    "difference": "line-height changed from 24px to 18px",
+    "dissimilarity_score": 0.35,
+    "noticeability_score": 0.4
+  },
+  "difference_64": {
+    "element_id": "/html/body[1]/div[3]/section[1]",
+    "element_description": "Element html__body_1__div_3__section_1 (/html/body[1]/div[3]/section[1])",
+    "computed_style_change": "background-color: \"rgba(0, 0, 0, 0)\" -> \"rgb(248, 249, 249)\"",
+    "difference": "background-color changed from rgba(0, 0, 0, 0) to rgb(248, 249, 249)",
+    "dissimilarity_score": 0.5,
+    "noticeability_score": 0.6
+  }
+}

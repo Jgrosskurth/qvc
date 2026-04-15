@@ -1,0 +1,14 @@
+{
+  "webpage_section": {
+    "section_id": "html__body_1__div_3__section_8",
+    "section_description": "Element at /html/body[1]/div[3]/section[8], matched to migrated html__body_1 (similarity: 0.5767)"
+  },
+  "difference_1": {
+    "element_id": "/html/body[1]/div[3]/section[8]",
+    "element_description": "Element html__body_1__div_3__section_8 (/html/body[1]/div[3]/section[8])",
+    "computed_style_change": "position: \"relative\" -> \"static\"",
+    "difference": "position changed from relative to static",
+    "dissimilarity_score": 0.2,
+    "noticeability_score": 0.15
+  }
+}

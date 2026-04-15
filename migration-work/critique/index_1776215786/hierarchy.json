@@ -1,0 +1,980 @@
+{
+  "nodes": {
+    "html__body_1__div_6__section_4": {
+      "id": "html__body_1__div_6__section_4",
+      "xpath": "/html/body[1]/div[6]/section[4]",
+      "migrated_id": "html__body_1__footer_1",
+      "similarity_score": 0.7915,
+      "children": [],
+      "height": 0
+    },
+    "html__body_1__div_6": {
+      "id": "html__body_1__div_6",
+      "xpath": "/html/body[1]/div[6]",
+      "migrated_id": "html__body_1__footer_1",
+      "similarity_score": 0.7912,
+      "children": [
+        "html__body_1__div_6__section_4"
+      ],
+      "height": 1
+    },
+    "html__body_1__div_3__section_9": {
+      "id": "html__body_1__div_3__section_9",
+      "xpath": "/html/body[1]/div[3]/section[9]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.6404,
+      "children": [
+        "html__body_1__div_3__section_9__div_2"
+      ],
+      "height": 5
+    },
+    "html__body_1__div_3__section_9__div_2": {
+      "id": "html__body_1__div_3__section_9__div_2",
+      "xpath": "/html/body[1]/div[3]/section[9]/div[2]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.6161,
+      "children": [
+        "html__body_1__div_3__section_9__div_2__div_1"
+      ],
+      "height": 4
+    },
+    "html__body_1__div_3__section_7": {
+      "id": "html__body_1__div_3__section_7",
+      "xpath": "/html/body[1]/div[3]/section[7]",
+      "migrated_id": "html__body_1__footer_1",
+      "similarity_score": 0.6054,
+      "children": [],
+      "height": 0
+    },
+    "html__body_1": {
+      "id": "html__body_1",
+      "xpath": "/html/body[1]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.6035,
+      "children": [
+        "html__body_1__div_6",
+        "html__body_1__div_3"
+      ],
+      "height": 13
+    },
+    "html__body_1__div_3__section_9__div_2__div_1": {
+      "id": "html__body_1__div_3__section_9__div_2__div_1",
+      "xpath": "/html/body[1]/div[3]/section[9]/div[2]/div[1]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.5825,
+      "children": [
+        "html__body_1__div_3__section_9__div_2__div_1__div_1"
+      ],
+      "height": 3
+    },
+    "html__body_1__div_3__section_9__div_2__div_1__div_1": {
+      "id": "html__body_1__div_3__section_9__div_2__div_1__div_1",
+      "xpath": "/html/body[1]/div[3]/section[9]/div[2]/div[1]/div[1]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.5825,
+      "children": [
+        "html__body_1__div_3__section_9__div_2__div_1__div_1__div_1"
+      ],
+      "height": 2
+    },
+    "html__body_1__div_3__section_9__div_2__div_1__div_1__div_1": {
+      "id": "html__body_1__div_3__section_9__div_2__div_1__div_1__div_1",
+      "xpath": "/html/body[1]/div[3]/section[9]/div[2]/div[1]/div[1]/div[1]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.5825,
+      "children": [
+        "html__body_1__div_3__section_9__div_2__div_1__div_1__div_1__div_1"
+      ],
+      "height": 1
+    },
+    "html__body_1__div_3__section_9__div_2__div_1__div_1__div_1__div_1": {
+      "id": "html__body_1__div_3__section_9__div_2__div_1__div_1__div_1__div_1",
+      "xpath": "/html/body[1]/div[3]/section[9]/div[2]/div[1]/div[1]/div[1]/div[1]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.5825,
+      "children": [],
+      "height": 0
+    },
+    "html__body_1__div_3__section_8": {
+      "id": "html__body_1__div_3__section_8",
+      "xpath": "/html/body[1]/div[3]/section[8]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.5767,
+      "children": [],
+      "height": 0
+    },
+    "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1": {
+      "id": "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1",
+      "xpath": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.5625,
+      "children": [
+        "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1__div_1"
+      ],
+      "height": 5
+    },
+    "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1__div_1": {
+      "id": "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1__div_1",
+      "xpath": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.5625,
+      "children": [
+        "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1__div_1__div_1"
+      ],
+      "height": 4
+    },
+    "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1__div_1__div_1": {
+      "id": "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1__div_1__div_1",
+      "xpath": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.5625,
+      "children": [
+        "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1__div_1__div_1__div_1"
+      ],
+      "height": 3
+    },
+    "html__body_1__div_3__section_11__div_2__div_1": {
+      "id": "html__body_1__div_3__section_11__div_2__div_1",
+      "xpath": "/html/body[1]/div[3]/section[11]/div[2]/div[1]",
+      "migrated_id": "html__body_1__main_1",
+      "similarity_score": 0.5622,
+      "children": [
+        "html__body_1__div_3__section_11__div_2__div_1__div_2"
+      ],
+      "height": 2
+    },
+    "html__body_1__div_3__section_11": {
+      "id": "html__body_1__div_3__section_11",
+      "xpath": "/html/body[1]/div[3]/section[11]",
+      "migrated_id": "html__body_1__main_1",
+      "similarity_score": 0.5568,
+      "children": [
+        "html__body_1__div_3__section_11__div_2"
+      ],
+      "height": 4
+    },
+    "html__body_1__div_3__section_14": {
+      "id": "html__body_1__div_3__section_14",
+      "xpath": "/html/body[1]/div[3]/section[14]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.5564,
+      "children": [
+        "html__body_1__div_3__section_14__div_2"
+      ],
+      "height": 11
+    },
+    "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1__div_1__div_1__div_1": {
+      "id": "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1__div_1__div_1__div_1",
+      "xpath": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.5548,
+      "children": [
+        "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1__div_1__div_1__div_1__div_1"
+      ],
+      "height": 2
+    },
+    "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1__div_1__div_1__div_1__div_1": {
+      "id": "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1__div_1__div_1__div_1__div_1",
+      "xpath": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.5548,
+      "children": [
+        "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1__div_1__div_1__div_1__div_1__div_1"
+      ],
+      "height": 1
+    },
+    "html__body_1__div_3__section_11__div_2__div_1__div_2": {
+      "id": "html__body_1__div_3__section_11__div_2__div_1__div_2",
+      "xpath": "/html/body[1]/div[3]/section[11]/div[2]/div[1]/div[2]",
+      "migrated_id": "html__body_1__main_1",
+      "similarity_score": 0.5518,
+      "children": [
+        "html__body_1__div_3__section_11__div_2__div_1__div_2__div_1"
+      ],
+      "height": 1
+    },
+    "html__body_1__div_3__section_11__div_2__div_1__div_2__div_1": {
+      "id": "html__body_1__div_3__section_11__div_2__div_1__div_2__div_1",
+      "xpath": "/html/body[1]/div[3]/section[11]/div[2]/div[1]/div[2]/div[1]",
+      "migrated_id": "html__body_1__main_1",
+      "similarity_score": 0.5518,
+      "children": [],
+      "height": 0
+    },
+    "html__body_1__div_3__section_14__div_2": {
+      "id": "html__body_1__div_3__section_14__div_2",
+      "xpath": "/html/body[1]/div[3]/section[14]/div[2]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.5488,
+      "children": [
+        "html__body_1__div_3__section_14__div_2__div_1"
+      ],
+      "height": 10
+    },
+    "html__body_1__div_3__section_14__div_2__div_1": {
+      "id": "html__body_1__div_3__section_14__div_2__div_1",
+      "xpath": "/html/body[1]/div[3]/section[14]/div[2]/div[1]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.5488,
+      "children": [
+        "html__body_1__div_3__section_14__div_2__div_1__div_1"
+      ],
+      "height": 9
+    },
+    "html__body_1__div_3__section_14__div_2__div_1__div_1": {
+      "id": "html__body_1__div_3__section_14__div_2__div_1__div_1",
+      "xpath": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.5488,
+      "children": [
+        "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2"
+      ],
+      "height": 8
+    },
+    "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2": {
+      "id": "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2",
+      "xpath": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.5488,
+      "children": [
+        "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1"
+      ],
+      "height": 7
+    },
+    "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1": {
+      "id": "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1",
+      "xpath": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.5488,
+      "children": [
+        "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1"
+      ],
+      "height": 6
+    },
+    "html__body_1__div_3__section_13": {
+      "id": "html__body_1__div_3__section_13",
+      "xpath": "/html/body[1]/div[3]/section[13]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.5455,
+      "children": [],
+      "height": 0
+    },
+    "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1__div_1__div_1__div_1__div_1__div_1": {
+      "id": "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1__div_1__div_1__div_1__div_1__div_1",
+      "xpath": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.541,
+      "children": [],
+      "height": 0
+    },
+    "html__body_1__div_3": {
+      "id": "html__body_1__div_3",
+      "xpath": "/html/body[1]/div[3]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.5387,
+      "children": [
+        "html__body_1__div_3__section_9",
+        "html__body_1__div_3__section_7",
+        "html__body_1__div_3__section_8",
+        "html__body_1__div_3__section_11",
+        "html__body_1__div_3__section_14",
+        "html__body_1__div_3__section_13",
+        "html__body_1__div_3__section_18",
+        "html__body_1__div_3__section_12",
+        "html__body_1__div_3__section_2",
+        "html__body_1__div_3__section_5",
+        "html__body_1__div_3__section_4",
+        "html__body_1__div_3__section_1"
+      ],
+      "height": 12
+    },
+    "html__body_1__div_3__section_18": {
+      "id": "html__body_1__div_3__section_18",
+      "xpath": "/html/body[1]/div[3]/section[18]",
+      "migrated_id": "html__body_1__footer_1",
+      "similarity_score": 0.5115,
+      "children": [],
+      "height": 0
+    },
+    "html__body_1__div_3__section_11__div_2": {
+      "id": "html__body_1__div_3__section_11__div_2",
+      "xpath": "/html/body[1]/div[3]/section[11]/div[2]",
+      "migrated_id": "html__body_1__main_1",
+      "similarity_score": 0.5113,
+      "children": [
+        "html__body_1__div_3__section_11__div_2__div_1"
+      ],
+      "height": 3
+    },
+    "html__body_1__div_3__section_12": {
+      "id": "html__body_1__div_3__section_12",
+      "xpath": "/html/body[1]/div[3]/section[12]",
+      "migrated_id": "html__body_1__main_1",
+      "similarity_score": 0.4925,
+      "children": [
+        "html__body_1__div_3__section_12__div_1"
+      ],
+      "height": 1
+    },
+    "html__body_1__div_3__section_12__div_1": {
+      "id": "html__body_1__div_3__section_12__div_1",
+      "xpath": "/html/body[1]/div[3]/section[12]/div[1]",
+      "migrated_id": "html__body_1__main_1",
+      "similarity_score": 0.4925,
+      "children": [],
+      "height": 0
+    },
+    "html__body_1__div_3__section_2": {
+      "id": "html__body_1__div_3__section_2",
+      "xpath": "/html/body[1]/div[3]/section[2]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.4797,
+      "children": [],
+      "height": 0
+    },
+    "html__body_1__div_3__section_5": {
+      "id": "html__body_1__div_3__section_5",
+      "xpath": "/html/body[1]/div[3]/section[5]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.4765,
+      "children": [],
+      "height": 0
+    },
+    "html__body_1__div_3__section_4__div_1__div_1__div_1": {
+      "id": "html__body_1__div_3__section_4__div_1__div_1__div_1",
+      "xpath": "/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.4002,
+      "children": [
+        "html__body_1__div_3__section_4__div_1__div_1__div_1__div_1"
+      ],
+      "height": 6
+    },
+    "html__body_1__div_3__section_4__div_1__div_1__div_1__div_1": {
+      "id": "html__body_1__div_3__section_4__div_1__div_1__div_1__div_1",
+      "xpath": "/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1]/div[1]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.4001,
+      "children": [
+        "html__body_1__div_3__section_4__div_1__div_1__div_1__div_1__div_1"
+      ],
+      "height": 5
+    },
+    "html__body_1__div_3__section_4__div_1__div_1": {
+      "id": "html__body_1__div_3__section_4__div_1__div_1",
+      "xpath": "/html/body[1]/div[3]/section[4]/div[1]/div[1]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.3949,
+      "children": [
+        "html__body_1__div_3__section_4__div_1__div_1__div_1"
+      ],
+      "height": 7
+    },
+    "html__body_1__div_3__section_4__div_1__div_1__div_1__div_1__div_1": {
+      "id": "html__body_1__div_3__section_4__div_1__div_1__div_1__div_1__div_1",
+      "xpath": "/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "migrated_id": "html__body_1__footer_1",
+      "similarity_score": 0.3819,
+      "children": [
+        "html__body_1__div_3__section_4__div_1__div_1__div_1__div_1__div_1__div_1"
+      ],
+      "height": 4
+    },
+    "html__body_1__div_3__section_4__div_1": {
+      "id": "html__body_1__div_3__section_4__div_1",
+      "xpath": "/html/body[1]/div[3]/section[4]/div[1]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.3789,
+      "children": [
+        "html__body_1__div_3__section_4__div_1__div_1"
+      ],
+      "height": 8
+    },
+    "html__body_1__div_3__section_4": {
+      "id": "html__body_1__div_3__section_4",
+      "xpath": "/html/body[1]/div[3]/section[4]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.3788,
+      "children": [
+        "html__body_1__div_3__section_4__div_1"
+      ],
+      "height": 9
+    },
+    "html__body_1__div_3__section_4__div_1__div_1__div_1__div_1__div_1__div_1": {
+      "id": "html__body_1__div_3__section_4__div_1__div_1__div_1__div_1__div_1__div_1",
+      "xpath": "/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.3659,
+      "children": [
+        "html__body_1__div_3__section_4__div_1__div_1__div_1__div_1__div_1__div_1__a_1"
+      ],
+      "height": 3
+    },
+    "html__body_1__div_3__section_4__div_1__div_1__div_1__div_1__div_1__div_1__a_1": {
+      "id": "html__body_1__div_3__section_4__div_1__div_1__div_1__div_1__div_1__div_1__a_1",
+      "xpath": "/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.3659,
+      "children": [
+        "html__body_1__div_3__section_4__div_1__div_1__div_1__div_1__div_1__div_1__a_1__picture_1"
+      ],
+      "height": 2
+    },
+    "html__body_1__div_3__section_4__div_1__div_1__div_1__div_1__div_1__div_1__a_1__picture_1": {
+      "id": "html__body_1__div_3__section_4__div_1__div_1__div_1__div_1__div_1__div_1__a_1__picture_1",
+      "xpath": "/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/picture[1]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.3659,
+      "children": [
+        "html__body_1__div_3__section_4__div_1__div_1__div_1__div_1__div_1__div_1__a_1__picture_1__img_1"
+      ],
+      "height": 1
+    },
+    "html__body_1__div_3__section_4__div_1__div_1__div_1__div_1__div_1__div_1__a_1__picture_1__img_1": {
+      "id": "html__body_1__div_3__section_4__div_1__div_1__div_1__div_1__div_1__div_1__a_1__picture_1__img_1",
+      "xpath": "/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/picture[1]/img[1]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.3659,
+      "children": [],
+      "height": 0
+    },
+    "html__body_1__div_3__section_1": {
+      "id": "html__body_1__div_3__section_1",
+      "xpath": "/html/body[1]/div[3]/section[1]",
+      "migrated_id": "html__body_1__footer_1",
+      "similarity_score": 0.2997,
+      "children": [],
+      "height": 0
+    }
+  },
+  "nodes_array": [
+    {
+      "id": "html__body_1__div_6__section_4",
+      "xpath": "/html/body[1]/div[6]/section[4]",
+      "migrated_id": "html__body_1__footer_1",
+      "similarity_score": 0.7915,
+      "children": [],
+      "height": 0
+    },
+    {
+      "id": "html__body_1__div_6",
+      "xpath": "/html/body[1]/div[6]",
+      "migrated_id": "html__body_1__footer_1",
+      "similarity_score": 0.7912,
+      "children": [
+        "html__body_1__div_6__section_4"
+      ],
+      "height": 1
+    },
+    {
+      "id": "html__body_1__div_3__section_9",
+      "xpath": "/html/body[1]/div[3]/section[9]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.6404,
+      "children": [
+        "html__body_1__div_3__section_9__div_2"
+      ],
+      "height": 5
+    },
+    {
+      "id": "html__body_1__div_3__section_9__div_2",
+      "xpath": "/html/body[1]/div[3]/section[9]/div[2]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.6161,
+      "children": [
+        "html__body_1__div_3__section_9__div_2__div_1"
+      ],
+      "height": 4
+    },
+    {
+      "id": "html__body_1__div_3__section_7",
+      "xpath": "/html/body[1]/div[3]/section[7]",
+      "migrated_id": "html__body_1__footer_1",
+      "similarity_score": 0.6054,
+      "children": [],
+      "height": 0
+    },
+    {
+      "id": "html__body_1",
+      "xpath": "/html/body[1]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.6035,
+      "children": [
+        "html__body_1__div_6",
+        "html__body_1__div_3"
+      ],
+      "height": 13
+    },
+    {
+      "id": "html__body_1__div_3__section_9__div_2__div_1",
+      "xpath": "/html/body[1]/div[3]/section[9]/div[2]/div[1]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.5825,
+      "children": [
+        "html__body_1__div_3__section_9__div_2__div_1__div_1"
+      ],
+      "height": 3
+    },
+    {
+      "id": "html__body_1__div_3__section_9__div_2__div_1__div_1",
+      "xpath": "/html/body[1]/div[3]/section[9]/div[2]/div[1]/div[1]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.5825,
+      "children": [
+        "html__body_1__div_3__section_9__div_2__div_1__div_1__div_1"
+      ],
+      "height": 2
+    },
+    {
+      "id": "html__body_1__div_3__section_9__div_2__div_1__div_1__div_1",
+      "xpath": "/html/body[1]/div[3]/section[9]/div[2]/div[1]/div[1]/div[1]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.5825,
+      "children": [
+        "html__body_1__div_3__section_9__div_2__div_1__div_1__div_1__div_1"
+      ],
+      "height": 1
+    },
+    {
+      "id": "html__body_1__div_3__section_9__div_2__div_1__div_1__div_1__div_1",
+      "xpath": "/html/body[1]/div[3]/section[9]/div[2]/div[1]/div[1]/div[1]/div[1]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.5825,
+      "children": [],
+      "height": 0
+    },
+    {
+      "id": "html__body_1__div_3__section_8",
+      "xpath": "/html/body[1]/div[3]/section[8]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.5767,
+      "children": [],
+      "height": 0
+    },
+    {
+      "id": "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1",
+      "xpath": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.5625,
+      "children": [
+        "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1__div_1"
+      ],
+      "height": 5
+    },
+    {
+      "id": "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1__div_1",
+      "xpath": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.5625,
+      "children": [
+        "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1__div_1__div_1"
+      ],
+      "height": 4
+    },
+    {
+      "id": "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1__div_1__div_1",
+      "xpath": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.5625,
+      "children": [
+        "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1__div_1__div_1__div_1"
+      ],
+      "height": 3
+    },
+    {
+      "id": "html__body_1__div_3__section_11__div_2__div_1",
+      "xpath": "/html/body[1]/div[3]/section[11]/div[2]/div[1]",
+      "migrated_id": "html__body_1__main_1",
+      "similarity_score": 0.5622,
+      "children": [
+        "html__body_1__div_3__section_11__div_2__div_1__div_2"
+      ],
+      "height": 2
+    },
+    {
+      "id": "html__body_1__div_3__section_11",
+      "xpath": "/html/body[1]/div[3]/section[11]",
+      "migrated_id": "html__body_1__main_1",
+      "similarity_score": 0.5568,
+      "children": [
+        "html__body_1__div_3__section_11__div_2"
+      ],
+      "height": 4
+    },
+    {
+      "id": "html__body_1__div_3__section_14",
+      "xpath": "/html/body[1]/div[3]/section[14]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.5564,
+      "children": [
+        "html__body_1__div_3__section_14__div_2"
+      ],
+      "height": 11
+    },
+    {
+      "id": "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1__div_1__div_1__div_1",
+      "xpath": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.5548,
+      "children": [
+        "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1__div_1__div_1__div_1__div_1"
+      ],
+      "height": 2
+    },
+    {
+      "id": "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1__div_1__div_1__div_1__div_1",
+      "xpath": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.5548,
+      "children": [
+        "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1__div_1__div_1__div_1__div_1__div_1"
+      ],
+      "height": 1
+    },
+    {
+      "id": "html__body_1__div_3__section_11__div_2__div_1__div_2",
+      "xpath": "/html/body[1]/div[3]/section[11]/div[2]/div[1]/div[2]",
+      "migrated_id": "html__body_1__main_1",
+      "similarity_score": 0.5518,
+      "children": [
+        "html__body_1__div_3__section_11__div_2__div_1__div_2__div_1"
+      ],
+      "height": 1
+    },
+    {
+      "id": "html__body_1__div_3__section_11__div_2__div_1__div_2__div_1",
+      "xpath": "/html/body[1]/div[3]/section[11]/div[2]/div[1]/div[2]/div[1]",
+      "migrated_id": "html__body_1__main_1",
+      "similarity_score": 0.5518,
+      "children": [],
+      "height": 0
+    },
+    {
+      "id": "html__body_1__div_3__section_14__div_2",
+      "xpath": "/html/body[1]/div[3]/section[14]/div[2]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.5488,
+      "children": [
+        "html__body_1__div_3__section_14__div_2__div_1"
+      ],
+      "height": 10
+    },
+    {
+      "id": "html__body_1__div_3__section_14__div_2__div_1",
+      "xpath": "/html/body[1]/div[3]/section[14]/div[2]/div[1]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.5488,
+      "children": [
+        "html__body_1__div_3__section_14__div_2__div_1__div_1"
+      ],
+      "height": 9
+    },
+    {
+      "id": "html__body_1__div_3__section_14__div_2__div_1__div_1",
+      "xpath": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.5488,
+      "children": [
+        "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2"
+      ],
+      "height": 8
+    },
+    {
+      "id": "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2",
+      "xpath": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.5488,
+      "children": [
+        "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1"
+      ],
+      "height": 7
+    },
+    {
+      "id": "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1",
+      "xpath": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.5488,
+      "children": [
+        "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1"
+      ],
+      "height": 6
+    },
+    {
+      "id": "html__body_1__div_3__section_13",
+      "xpath": "/html/body[1]/div[3]/section[13]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.5455,
+      "children": [],
+      "height": 0
+    },
+    {
+      "id": "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1__div_1__div_1__div_1__div_1__div_1",
+      "xpath": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.541,
+      "children": [],
+      "height": 0
+    },
+    {
+      "id": "html__body_1__div_3",
+      "xpath": "/html/body[1]/div[3]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.5387,
+      "children": [
+        "html__body_1__div_3__section_9",
+        "html__body_1__div_3__section_7",
+        "html__body_1__div_3__section_8",
+        "html__body_1__div_3__section_11",
+        "html__body_1__div_3__section_14",
+        "html__body_1__div_3__section_13",
+        "html__body_1__div_3__section_18",
+        "html__body_1__div_3__section_12",
+        "html__body_1__div_3__section_2",
+        "html__body_1__div_3__section_5",
+        "html__body_1__div_3__section_4",
+        "html__body_1__div_3__section_1"
+      ],
+      "height": 12
+    },
+    {
+      "id": "html__body_1__div_3__section_18",
+      "xpath": "/html/body[1]/div[3]/section[18]",
+      "migrated_id": "html__body_1__footer_1",
+      "similarity_score": 0.5115,
+      "children": [],
+      "height": 0
+    },
+    {
+      "id": "html__body_1__div_3__section_11__div_2",
+      "xpath": "/html/body[1]/div[3]/section[11]/div[2]",
+      "migrated_id": "html__body_1__main_1",
+      "similarity_score": 0.5113,
+      "children": [
+        "html__body_1__div_3__section_11__div_2__div_1"
+      ],
+      "height": 3
+    },
+    {
+      "id": "html__body_1__div_3__section_12",
+      "xpath": "/html/body[1]/div[3]/section[12]",
+      "migrated_id": "html__body_1__main_1",
+      "similarity_score": 0.4925,
+      "children": [
+        "html__body_1__div_3__section_12__div_1"
+      ],
+      "height": 1
+    },
+    {
+      "id": "html__body_1__div_3__section_12__div_1",
+      "xpath": "/html/body[1]/div[3]/section[12]/div[1]",
+      "migrated_id": "html__body_1__main_1",
+      "similarity_score": 0.4925,
+      "children": [],
+      "height": 0
+    },
+    {
+      "id": "html__body_1__div_3__section_2",
+      "xpath": "/html/body[1]/div[3]/section[2]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.4797,
+      "children": [],
+      "height": 0
+    },
+    {
+      "id": "html__body_1__div_3__section_5",
+      "xpath": "/html/body[1]/div[3]/section[5]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.4765,
+      "children": [],
+      "height": 0
+    },
+    {
+      "id": "html__body_1__div_3__section_4__div_1__div_1__div_1",
+      "xpath": "/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.4002,
+      "children": [
+        "html__body_1__div_3__section_4__div_1__div_1__div_1__div_1"
+      ],
+      "height": 6
+    },
+    {
+      "id": "html__body_1__div_3__section_4__div_1__div_1__div_1__div_1",
+      "xpath": "/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1]/div[1]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.4001,
+      "children": [
+        "html__body_1__div_3__section_4__div_1__div_1__div_1__div_1__div_1"
+      ],
+      "height": 5
+    },
+    {
+      "id": "html__body_1__div_3__section_4__div_1__div_1",
+      "xpath": "/html/body[1]/div[3]/section[4]/div[1]/div[1]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.3949,
+      "children": [
+        "html__body_1__div_3__section_4__div_1__div_1__div_1"
+      ],
+      "height": 7
+    },
+    {
+      "id": "html__body_1__div_3__section_4__div_1__div_1__div_1__div_1__div_1",
+      "xpath": "/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "migrated_id": "html__body_1__footer_1",
+      "similarity_score": 0.3819,
+      "children": [
+        "html__body_1__div_3__section_4__div_1__div_1__div_1__div_1__div_1__div_1"
+      ],
+      "height": 4
+    },
+    {
+      "id": "html__body_1__div_3__section_4__div_1",
+      "xpath": "/html/body[1]/div[3]/section[4]/div[1]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.3789,
+      "children": [
+        "html__body_1__div_3__section_4__div_1__div_1"
+      ],
+      "height": 8
+    },
+    {
+      "id": "html__body_1__div_3__section_4",
+      "xpath": "/html/body[1]/div[3]/section[4]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.3788,
+      "children": [
+        "html__body_1__div_3__section_4__div_1"
+      ],
+      "height": 9
+    },
+    {
+      "id": "html__body_1__div_3__section_4__div_1__div_1__div_1__div_1__div_1__div_1",
+      "xpath": "/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.3659,
+      "children": [
+        "html__body_1__div_3__section_4__div_1__div_1__div_1__div_1__div_1__div_1__a_1"
+      ],
+      "height": 3
+    },
+    {
+      "id": "html__body_1__div_3__section_4__div_1__div_1__div_1__div_1__div_1__div_1__a_1",
+      "xpath": "/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.3659,
+      "children": [
+        "html__body_1__div_3__section_4__div_1__div_1__div_1__div_1__div_1__div_1__a_1__picture_1"
+      ],
+      "height": 2
+    },
+    {
+      "id": "html__body_1__div_3__section_4__div_1__div_1__div_1__div_1__div_1__div_1__a_1__picture_1",
+      "xpath": "/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/picture[1]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.3659,
+      "children": [
+        "html__body_1__div_3__section_4__div_1__div_1__div_1__div_1__div_1__div_1__a_1__picture_1__img_1"
+      ],
+      "height": 1
+    },
+    {
+      "id": "html__body_1__div_3__section_4__div_1__div_1__div_1__div_1__div_1__div_1__a_1__picture_1__img_1",
+      "xpath": "/html/body[1]/div[3]/section[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/picture[1]/img[1]",
+      "migrated_id": "html__body_1",
+      "similarity_score": 0.3659,
+      "children": [],
+      "height": 0
+    },
+    {
+      "id": "html__body_1__div_3__section_1",
+      "xpath": "/html/body[1]/div[3]/section[1]",
+      "migrated_id": "html__body_1__footer_1",
+      "similarity_score": 0.2997,
+      "children": [],
+      "height": 0
+    }
+  ],
+  "nodes_by_height": {
+    "0": [
+      "html__body_1__div_6__section_4",
+      "html__body_1__div_3__section_7",
+      "html__body_1__div_3__section_9__div_2__div_1__div_1__div_1__div_1",
+      "html__body_1__div_3__section_8",
+      "html__body_1__div_3__section_11__div_2__div_1__div_2__div_1",
+      "html__body_1__div_3__section_13",
+      "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1__div_1__div_1__div_1__div_1__div_1",
+      "html__body_1__div_3__section_18",
+      "html__body_1__div_3__section_12__div_1",
+      "html__body_1__div_3__section_2",
+      "html__body_1__div_3__section_5",
+      "html__body_1__div_3__section_4__div_1__div_1__div_1__div_1__div_1__div_1__a_1__picture_1__img_1",
+      "html__body_1__div_3__section_1"
+    ],
+    "1": [
+      "html__body_1__div_6",
+      "html__body_1__div_3__section_9__div_2__div_1__div_1__div_1",
+      "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1__div_1__div_1__div_1__div_1",
+      "html__body_1__div_3__section_11__div_2__div_1__div_2",
+      "html__body_1__div_3__section_12",
+      "html__body_1__div_3__section_4__div_1__div_1__div_1__div_1__div_1__div_1__a_1__picture_1"
+    ],
+    "2": [
+      "html__body_1__div_3__section_9__div_2__div_1__div_1",
+      "html__body_1__div_3__section_11__div_2__div_1",
+      "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1__div_1__div_1__div_1",
+      "html__body_1__div_3__section_4__div_1__div_1__div_1__div_1__div_1__div_1__a_1"
+    ],
+    "3": [
+      "html__body_1__div_3__section_9__div_2__div_1",
+      "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1__div_1__div_1",
+      "html__body_1__div_3__section_11__div_2",
+      "html__body_1__div_3__section_4__div_1__div_1__div_1__div_1__div_1__div_1"
+    ],
+    "4": [
+      "html__body_1__div_3__section_9__div_2",
+      "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1__div_1",
+      "html__body_1__div_3__section_11",
+      "html__body_1__div_3__section_4__div_1__div_1__div_1__div_1__div_1"
+    ],
+    "5": [
+      "html__body_1__div_3__section_9",
+      "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1",
+      "html__body_1__div_3__section_4__div_1__div_1__div_1__div_1"
+    ],
+    "6": [
+      "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1",
+      "html__body_1__div_3__section_4__div_1__div_1__div_1"
+    ],
+    "7": [
+      "html__body_1__div_3__section_14__div_2__div_1__div_1__div_2",
+      "html__body_1__div_3__section_4__div_1__div_1"
+    ],
+    "8": [
+      "html__body_1__div_3__section_14__div_2__div_1__div_1",
+      "html__body_1__div_3__section_4__div_1"
+    ],
+    "9": [
+      "html__body_1__div_3__section_14__div_2__div_1",
+      "html__body_1__div_3__section_4"
+    ],
+    "10": [
+      "html__body_1__div_3__section_14__div_2"
+    ],
+    "11": [
+      "html__body_1__div_3__section_14"
+    ],
+    "12": [
+      "html__body_1__div_3"
+    ],
+    "13": [
+      "html__body_1"
+    ]
+  },
+  "max_height": 13,
+  "total_nodes": 46,
+  "root_id": "html__body_1",
+  "root_ids": [
+    "html__body_1"
+  ]
+}

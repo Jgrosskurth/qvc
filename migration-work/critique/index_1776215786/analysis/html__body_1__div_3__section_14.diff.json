@@ -1,0 +1,166 @@
+{
+  "webpage_section": {
+    "section_id": "html__body_1__div_3__section_14",
+    "section_description": "Element at /html/body[1]/div[3]/section[14], matched to migrated html__body_1 (similarity: 0.5564)"
+  },
+  "difference_1": {
+    "element_id": "/html/body[1]/div[3]/section[14]",
+    "element_description": "Element html__body_1__div_3__section_14 (/html/body[1]/div[3]/section[14])",
+    "computed_style_change": "position: \"relative\" -> \"static\"",
+    "difference": "position changed from relative to static",
+    "dissimilarity_score": 0.2,
+    "noticeability_score": 0.15
+  },
+  "difference_2": {
+    "element_id": "/html/body[1]/div[3]/section[14]/div[2]",
+    "element_description": "Element html__body_1__div_3__section_14__div_2 (/html/body[1]/div[3]/section[14]/div[2])",
+    "computed_style_change": "padding-right: \"12px\" -> \"0px\"",
+    "difference": "padding-right changed from 12px to 0px",
+    "dissimilarity_score": 0.55,
+    "noticeability_score": 0.55
+  },
+  "difference_3": {
+    "element_id": "/html/body[1]/div[3]/section[14]/div[2]",
+    "element_description": "Element html__body_1__div_3__section_14__div_2 (/html/body[1]/div[3]/section[14]/div[2])",
+    "computed_style_change": "padding-left: \"12px\" -> \"0px\"",
+    "difference": "padding-left changed from 12px to 0px",
+    "dissimilarity_score": 0.55,
+    "noticeability_score": 0.55
+  },
+  "difference_4": {
+    "element_id": "/html/body[1]/div[3]/section[14]/div[2]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_14__div_2__div_1 (/html/body[1]/div[3]/section[14]/div[2]/div[1])",
+    "computed_style_change": "margin-right: \"-12px\" -> \"0px\"",
+    "difference": "margin-right changed from -12px to 0px",
+    "dissimilarity_score": 0.5,
+    "noticeability_score": 0.5
+  },
+  "difference_5": {
+    "element_id": "/html/body[1]/div[3]/section[14]/div[2]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_14__div_2__div_1 (/html/body[1]/div[3]/section[14]/div[2]/div[1])",
+    "computed_style_change": "margin-left: \"-12px\" -> \"0px\"",
+    "difference": "margin-left changed from -12px to 0px",
+    "dissimilarity_score": 0.5,
+    "noticeability_score": 0.5
+  },
+  "difference_6": {
+    "element_id": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_14__div_2__div_1__div_1 (/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1])",
+    "computed_style_change": "padding-right: \"12px\" -> \"0px\"",
+    "difference": "padding-right changed from 12px to 0px",
+    "dissimilarity_score": 0.55,
+    "noticeability_score": 0.55
+  },
+  "difference_7": {
+    "element_id": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_14__div_2__div_1__div_1 (/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1])",
+    "computed_style_change": "padding-left: \"12px\" -> \"0px\"",
+    "difference": "padding-left changed from 12px to 0px",
+    "dissimilarity_score": 0.55,
+    "noticeability_score": 0.55
+  },
+  "difference_8": {
+    "element_id": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]",
+    "element_description": "Element html__body_1__div_3__section_14__div_2__div_1__div_1__div_2 (/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2])",
+    "computed_style_change": "margin-right: \"-12px\" -> \"0px\"",
+    "difference": "margin-right changed from -12px to 0px",
+    "dissimilarity_score": 0.5,
+    "noticeability_score": 0.5
+  },
+  "difference_9": {
+    "element_id": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]",
+    "element_description": "Element html__body_1__div_3__section_14__div_2__div_1__div_1__div_2 (/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2])",
+    "computed_style_change": "margin-left: \"-12px\" -> \"0px\"",
+    "difference": "margin-left changed from -12px to 0px",
+    "dissimilarity_score": 0.5,
+    "noticeability_score": 0.5
+  },
+  "difference_10": {
+    "element_id": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1 (/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1])",
+    "computed_style_change": "padding-right: \"12px\" -> \"0px\"",
+    "difference": "padding-right changed from 12px to 0px",
+    "dissimilarity_score": 0.55,
+    "noticeability_score": 0.55
+  },
+  "difference_11": {
+    "element_id": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1 (/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1])",
+    "computed_style_change": "padding-left: \"12px\" -> \"0px\"",
+    "difference": "padding-left changed from 12px to 0px",
+    "dissimilarity_score": 0.55,
+    "noticeability_score": 0.55
+  },
+  "difference_12": {
+    "element_id": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1 (/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1])",
+    "computed_style_change": "overflow-x: \"hidden\" -> \"visible\"",
+    "difference": "overflow-x changed from hidden to visible",
+    "dissimilarity_score": 0.4,
+    "noticeability_score": 0.4
+  },
+  "difference_13": {
+    "element_id": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1 (/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1])",
+    "computed_style_change": "overflow-y: \"hidden\" -> \"visible\"",
+    "difference": "overflow-y changed from hidden to visible",
+    "dissimilarity_score": 0.4,
+    "noticeability_score": 0.4
+  },
+  "difference_14": {
+    "element_id": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1__div_1__div_1__div_1__div_1 (/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1])",
+    "computed_style_change": "overflow-x: \"hidden\" -> \"visible\"",
+    "difference": "overflow-x changed from hidden to visible",
+    "dissimilarity_score": 0.4,
+    "noticeability_score": 0.4
+  },
+  "difference_15": {
+    "element_id": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1__div_1__div_1__div_1__div_1 (/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1])",
+    "computed_style_change": "overflow-y: \"hidden\" -> \"visible\"",
+    "difference": "overflow-y changed from hidden to visible",
+    "dissimilarity_score": 0.4,
+    "noticeability_score": 0.4
+  },
+  "difference_16": {
+    "element_id": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1__div_1__div_1__div_1__div_1__div_1 (/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1])",
+    "computed_style_change": "margin-right: \"-12px\" -> \"0px\"",
+    "difference": "margin-right changed from -12px to 0px",
+    "dissimilarity_score": 0.5,
+    "noticeability_score": 0.5
+  },
+  "difference_17": {
+    "element_id": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1__div_1__div_1__div_1__div_1__div_1 (/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1])",
+    "computed_style_change": "margin-left: \"-12px\" -> \"0px\"",
+    "difference": "margin-left changed from -12px to 0px",
+    "dissimilarity_score": 0.5,
+    "noticeability_score": 0.5
+  },
+  "difference_18": {
+    "element_id": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1__div_1__div_1__div_1__div_1__div_1 (/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1])",
+    "computed_style_change": "display: \"flex\" -> \"block\"",
+    "difference": "display changed from flex to block",
+    "dissimilarity_score": 0.6,
+    "noticeability_score": 0.7
+  },
+  "difference_19": {
+    "element_id": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1__div_1__div_1__div_1__div_1__div_1 (/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1])",
+    "computed_style_change": "overflow-x: \"auto\" -> \"visible\"",
+    "difference": "overflow-x changed from auto to visible",
+    "dissimilarity_score": 0.4,
+    "noticeability_score": 0.4
+  },
+  "difference_20": {
+    "element_id": "/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+    "element_description": "Element html__body_1__div_3__section_14__div_2__div_1__div_1__div_2__div_1__div_1__div_1__div_1__div_1__div_1__div_1 (/html/body[1]/div[3]/section[14]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1])",
+    "computed_style_change": "overflow-y: \"auto\" -> \"visible\"",
+    "difference": "overflow-y changed from auto to visible",
+    "dissimilarity_score": 0.4,
+    "noticeability_score": 0.4
+  }
+}
